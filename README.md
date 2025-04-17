@@ -51,5 +51,5 @@
 
 ### 📈 GitHub Stats
 
-![Sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiakhan&show_icons=true&theme=radical)
+![Sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiaK-art&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaK-art&layout=compact&theme=radical)](https://github.com/SadiaK-art)
