@@ -43,8 +43,12 @@
   > A data dashboard to track student performance using big data techniques.  
   > Published at ICDSA 2021, Springer.
 
+- 🌾 [SAR Land Use Land Cover Segmentation](https://github.com/SadiaK-art/sar-lulc-code)  
+  > A deep learning project using U-Net and DeepLabV3+ models for segmenting land use and land cover from Sentinel-1A SAR satellite imagery. Focused on agricultural monitoring and disaster management in Bangladesh.
+
 - 🧠 [Research Paper Relevance Checker](https://github.com/SadiaK-art/research-paper-checker)  
-  > An interactive Streamlit app aimed to make research easy - it analyzes research paper relevance, extracts citations, generates literature review paragraphs, and provides downloadable PDF reports.
+  > An interactive Streamlit app aimed to make research easy — it analyzes research paper relevance, extracts citations, generates literature review paragraphs, and provides downloadable PDF reports.
+
 
 
 ---
