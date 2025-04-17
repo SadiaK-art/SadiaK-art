@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sadia</h1>
+<h1 align="center">Hi there, I'm Sadia!</h1>
 
 <p align="center">
 💻 AI & Data Specialist | 🤖 ML Enthusiast | 📊 Researcher | 🌏 Mentor  
@@ -9,7 +9,7 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently working as a QA and previously led a team training AI models.
-- 📚 Published researcher in Big Data applications for education.
+- 📚 Published researcher in Big Data applications and Deep Learning using SAR for education.
 - 🌱 Currently exploring ML Ops, data analysis, and applied research
 - 🤝 Mentor at WEDU, guiding aspiring women leaders in STEM
   
@@ -19,6 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sadia-khan90/)) 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sdkhn8272@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=6-Rb6Z4AAAAJ)
 
 ---
 
@@ -42,11 +43,9 @@
   > A data dashboard to track student performance using big data techniques.  
   > Published at ICDSA 2021, Springer.
 
-- 🧪 AI QA Case Study (Coming Soon)  
-  > A deep dive into training + QA on real-world AI models.
+- 🧠 [Research Paper Relevance Checker](https://github.com/SadiaK-art/research-paper-checker)  
+  > An interactive Streamlit app aimed to make research easy - it analyzes research paper relevance, extracts citations, generates literature review paragraphs, and provides downloadable PDF reports.
 
-- 📈 Predictive Modeling (Coming Soon)  
-  > Exploring regression techniques on public datasets.
 
 ---
 
