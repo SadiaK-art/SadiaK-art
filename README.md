@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working as a QA and previously led a team training AI models.
+- 🔭 A tech enthusiast with a passion for training AI models, fine-tuning LLMs, and leading AIT teams.
 - 📚 Published researcher in Big Data applications and Deep Learning using SAR for education.
 - 🌱 Currently exploring ML Ops, data analysis, and applied research
 - 🤝 Mentor at WEDU, guiding aspiring women leaders in STEM
